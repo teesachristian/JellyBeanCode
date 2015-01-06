@@ -1,4 +1,4 @@
-#!/Vendors/anaconda/bin/python
+#!/Users/Teesa/anaconda/bin/python
 
 import EstNumJellyBeans as jelly
 
@@ -21,3 +21,4 @@ est = estimator.compute_Njelly_est()
 print "\nIt is estimated that when\n", land_frac*100, "percent\nof the land is"+\
       " used for sugar and\n", pink_frac*100, "percent of", int(ppl), \
       "people\nLOVE pink, then there are\n", est, "\nJelly Beans in the world."
+
